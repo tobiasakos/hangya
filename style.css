@@ -1,0 +1,27 @@
+body {
+    color: #A03028;
+    background-color: #F09838;
+}
+
+#tabla1 {
+    width: 800px;
+    border-spacing: 0px;
+    background-color: #FFECC0;
+}
+
+.widht150 {
+    width: 150px;
+    text-align: center;
+}
+
+#div1 {
+    margin: auto;
+    width: 300px;
+    background-color: #F09838;
+    color: #FFECC0;
+    text-align: center;
+}
+
+.kozepreigazit {
+    margin: auto;
+}
